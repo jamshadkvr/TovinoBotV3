@@ -54,6 +54,9 @@ You can deploy this bot anywhere.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
+[![Deploy Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jamshadkvr/TovinoBotV3.git)
+
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
